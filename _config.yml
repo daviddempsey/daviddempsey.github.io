@@ -1,2 +1,4 @@
 name: David Dempsey
 markdown: kramdown
+
+theme: jekyll-theme-slate
